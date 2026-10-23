@@ -5,7 +5,7 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-10-23T12:11:35Z</updated>
+  <updated>2026-10-23T12:13:37Z</updated>
   <entry>
     <title>Hannes Schlögl, Verlassenschaft nach</title>
     <link href="https://www.akv.at/insolvenz/1555341-hannes-schloegl-verlassenschaft-nach"/>
@@ -191,6 +191,14 @@
     <summary>Eröffnung: 22.10.2026 · 14 S 64/26p · Landesgericht Feldkirch</summary>
   </entry>
   <entry>
+    <title>Alois Kreiler, Verlassenschaft nach dem am 16.09.2025 verstorbenen</title>
+    <link href="https://www.akv.at/insolvenz/1555176-alois-kreiler-verlassenschaft-nach-dem-am-16-09-2025-verstorbenen"/>
+    <id>https://www.akv.at/insolvenz/1555176-alois-kreiler-verlassenschaft-nach-dem-am-16-09-2025-verstorbenen</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Burgenland"/>
+    <summary>Eröffnung: 22.10.2026 · 26 S 107/26a · Landesgericht Eisenstadt</summary>
+  </entry>
+  <entry>
     <title>GuterWal GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555169-guterwal-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555169-guterwal-gmbh</id>
@@ -237,6 +245,14 @@
     <updated>2026-10-21T00:00:00Z</updated>
     <category term="Wien"/>
     <summary>Eröffnung: 21.10.2026 · 4 S 134/26x · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Mag. Nikolaus Georg Serrat, Verlassenschaft nach dem am 18.04.2023 verstorbenen</title>
+    <link href="https://www.akv.at/insolvenz/1555080-mag-nikolaus-georg-serrat-verlassenschaft-nach-dem-am-18-04-2023-br-verstorbenen"/>
+    <id>https://www.akv.at/insolvenz/1555080-mag-nikolaus-georg-serrat-verlassenschaft-nach-dem-am-18-04-2023-br-verstorbenen</id>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 21.10.2026 · 28 S 141/26b · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>AKIS Capital GmbH</title>
@@ -389,6 +405,14 @@
     <updated>2026-10-20T00:00:00Z</updated>
     <category term="Tirol"/>
     <summary>Eröffnung: 20.10.2026 · 7 S 74/26f · Landesgericht Innsbruck</summary>
+  </entry>
+  <entry>
+    <title>Verlassenschaft nach dem am 04.02.2026 verstorbenen Friedrich Wolfgang Obermair</title>
+    <link href="https://www.akv.at/insolvenz/1554855-verlassenschaft-nach-dem-am-04-02-2026-verstorbenen-friedrich-wolfgang-obermair"/>
+    <id>https://www.akv.at/insolvenz/1554855-verlassenschaft-nach-dem-am-04-02-2026-verstorbenen-friedrich-wolfgang-obermair</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 20.10.2026 · 20 S 93/26s · Landesgericht Wels</summary>
   </entry>
   <entry>
     <title>Herbert Baumgartner</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-15T00:00:00Z</updated>
     <category term="Wien"/>
     <summary>Eröffnung: 15.10.2026 · 9 S 121/26x · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Longstocking Productions GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1554217-longstocking-productions-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1554217-longstocking-productions-gmbh</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="Oberösterreich"/>
-    <summary>Eröffnung: 15.10.2026 · 17 S 44/26s · Landesgericht Ried im Innkreis</summary>
-  </entry>
-  <entry>
-    <title>Haluk Genc, Gebäudereinigung</title>
-    <link href="https://www.akv.at/insolvenz/1554208-haluk-genc-gebaeudereinigung"/>
-    <id>https://www.akv.at/insolvenz/1554208-haluk-genc-gebaeudereinigung</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="Tirol"/>
-    <summary>Eröffnung: 15.10.2026 · 7 S 69/26w · Landesgericht Innsbruck</summary>
-  </entry>
-  <entry>
-    <title>VK Consulting und Handels GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1554201-vk-consulting-und-handels-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1554201-vk-consulting-und-handels-gmbh</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 15.10.2026 · 4 S 129/26m · Handelsgericht Wien</summary>
   </entry>
 </feed>
