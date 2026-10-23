@@ -83,6 +83,7 @@ def atom(entries: list[dict]) -> str:
   <link href="{SOURCE}"/>
   <link rel="self" href="{FEED_URL}"/>
   <id>{SOURCE}</id>
+  <author><name>AKV EUROPA</name></author>
   <updated>{now}</updated>
 {chr(10).join(items)}
 </feed>
