@@ -93,9 +93,13 @@ def parse(html: str) -> list[dict]:
             continue
         parts = [p.strip() for p in a.get_text("|").split("|") if p.strip()]
         text = "|".join(parts)
-        d = DATE_RE.search(text)
-        if not d:
+        # Eröffnungsdatum = das Datum direkt vor dem Aktenzeichen (Namen können
+        # selbst Daten enthalten, z.B. "Verlassenschaft nach dem am 18.04.2023 ...")
+        az_pos = AZ_RE.search(text)
+        dates = list(DATE_RE.finditer(text[: az_pos.start()] if az_pos else text))
+        if not dates:
             continue
+        d = dates[-1]
         name = re.sub(r"\s+", " ", text[: d.start()].replace("|", " ")).strip(" ,")
         az = AZ_RE.search(text)
         court = COURT_RE.search(text[d.end():])
