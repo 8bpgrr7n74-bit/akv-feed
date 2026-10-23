@@ -5,53 +5,29 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-10-23T12:05:20Z</updated>
-  <entry>
-    <title>TSD GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1554545-tsd-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1554545-tsd-gmbh</id>
-    <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
-    <summary>Eröffnung: 23.10.2026 · 4 S 136/26s · Handelsgericht Wien</summary>
-  </entry>
+  <updated>2026-10-23T12:11:35Z</updated>
   <entry>
     <title>Hannes Schlögl, Verlassenschaft nach</title>
     <link href="https://www.akv.at/insolvenz/1555341-hannes-schloegl-verlassenschaft-nach"/>
     <id>https://www.akv.at/insolvenz/1555341-hannes-schloegl-verlassenschaft-nach</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Landesgericht Eisenstadt"/>
+    <category term="Burgenland"/>
     <summary>Eröffnung: 23.10.2026 · 26 S 109/26w · Landesgericht Eisenstadt</summary>
-  </entry>
-  <entry>
-    <title>PV Energy GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555258-pv-energy-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555258-pv-energy-gmbh</id>
-    <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Landesgericht Ried im Innkreis"/>
-    <summary>Eröffnung: 23.10.2026 · 17 S 45/26p · Landesgericht Ried im Innkreis</summary>
   </entry>
   <entry>
     <title>Candy Shop Vie GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555333-candy-shop-vie-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555333-candy-shop-vie-gmbh</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 23.10.2026 · 4 S 137/26p · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Rong Chen, Restaurant „Maison Royale“</title>
-    <link href="https://www.akv.at/insolvenz/1555314-rong-chen-restaurant-maison-royale"/>
-    <id>https://www.akv.at/insolvenz/1555314-rong-chen-restaurant-maison-royale</id>
-    <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Landesgericht Feldkirch"/>
-    <summary>Eröffnung: 23.10.2026 · 14 S 51/26a · Landesgericht Feldkirch</summary>
   </entry>
   <entry>
     <title>IKONO Vienna GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555324-ikono-vienna-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555324-ikono-vienna-gmbh</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 23.10.2026 · 3 S 125/26s · Handelsgericht Wien</summary>
   </entry>
   <entry>
@@ -59,15 +35,23 @@
     <link href="https://www.akv.at/insolvenz/1555323-meinbroetchen-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555323-meinbroetchen-gmbh</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 23.10.2026 · 4 S 132/26b · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Rong Chen, Restaurant „Maison Royale“</title>
+    <link href="https://www.akv.at/insolvenz/1555314-rong-chen-restaurant-maison-royale"/>
+    <id>https://www.akv.at/insolvenz/1555314-rong-chen-restaurant-maison-royale</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="Vorarlberg"/>
+    <summary>Eröffnung: 23.10.2026 · 14 S 51/26a · Landesgericht Feldkirch</summary>
   </entry>
   <entry>
     <title>Alexandra Wukonig</title>
     <link href="https://www.akv.at/insolvenz/1555312-alexandra-wukonig"/>
     <id>https://www.akv.at/insolvenz/1555312-alexandra-wukonig</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Landesgericht für ZRS Graz Abt. 25"/>
+    <category term="Steiermark"/>
     <summary>Eröffnung: 23.10.2026 · 25 S 212/26b · Landesgericht für ZRS Graz Abt. 25</summary>
   </entry>
   <entry>
@@ -75,7 +59,7 @@
     <link href="https://www.akv.at/insolvenz/1555301-david-djordjevic-handel-namhaftmachung-von-personen-fuer-versicherungsvermittlung"/>
     <id>https://www.akv.at/insolvenz/1555301-david-djordjevic-handel-namhaftmachung-von-personen-fuer-versicherungsvermittlung</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 23.10.2026 · 6 S 143/26k · Handelsgericht Wien</summary>
   </entry>
   <entry>
@@ -83,7 +67,7 @@
     <link href="https://www.akv.at/insolvenz/1555297-rebeca-georgeta-halas-inh-d-halas-e-u-fn665536f"/>
     <id>https://www.akv.at/insolvenz/1555297-rebeca-georgeta-halas-inh-d-halas-e-u-fn665536f</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 23.10.2026 · 6 S 141/26s · Handelsgericht Wien</summary>
   </entry>
   <entry>
@@ -91,7 +75,7 @@
     <link href="https://www.akv.at/insolvenz/1555285-sarkani-kg"/>
     <id>https://www.akv.at/insolvenz/1555285-sarkani-kg</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 23.10.2026 · 38 S 139/26g · Handelsgericht Wien</summary>
   </entry>
   <entry>
@@ -99,167 +83,167 @@
     <link href="https://www.akv.at/insolvenz/1555278-peierl-schmuck-und-uhren-kg"/>
     <id>https://www.akv.at/insolvenz/1555278-peierl-schmuck-und-uhren-kg</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Landesgericht Korneuburg"/>
+    <category term="Niederösterreich"/>
     <summary>Eröffnung: 23.10.2026 · 36 S 155/26z · Landesgericht Korneuburg</summary>
   </entry>
   <entry>
-    <title>Sagartz &amp; Rathmann Bau GmbH in Liquidation</title>
-    <link href="https://www.akv.at/insolvenz/1555225-sagartz-und-rathmann-bau-gmbh-in-liquidation"/>
-    <id>https://www.akv.at/insolvenz/1555225-sagartz-und-rathmann-bau-gmbh-in-liquidation</id>
+    <title>PV Energy GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555258-pv-energy-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555258-pv-energy-gmbh</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Landesgericht Eisenstadt"/>
-    <summary>Eröffnung: 23.10.2026 · 26 S 108/26y · Landesgericht Eisenstadt</summary>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 23.10.2026 · 17 S 45/26p · Landesgericht Ried im Innkreis</summary>
   </entry>
   <entry>
     <title>Cecilia Maria Lederer</title>
     <link href="https://www.akv.at/insolvenz/1555251-cecilia-maria-lederer"/>
     <id>https://www.akv.at/insolvenz/1555251-cecilia-maria-lederer</id>
     <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 23.10.2026 · 28 S 143/26x · Handelsgericht Wien</summary>
   </entry>
   <entry>
-    <title>Bäckerei Masser KG</title>
-    <link href="https://www.akv.at/insolvenz/1555256-baeckerei-masser-kg"/>
-    <id>https://www.akv.at/insolvenz/1555256-baeckerei-masser-kg</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht für ZRS Graz Abt. 25"/>
-    <summary>Eröffnung: 22.10.2026 · 25 S 210/26h · Landesgericht für ZRS Graz Abt. 25</summary>
+    <title>Sagartz &amp; Rathmann Bau GmbH in Liquidation</title>
+    <link href="https://www.akv.at/insolvenz/1555225-sagartz-und-rathmann-bau-gmbh-in-liquidation"/>
+    <id>https://www.akv.at/insolvenz/1555225-sagartz-und-rathmann-bau-gmbh-in-liquidation</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="Burgenland"/>
+    <summary>Eröffnung: 23.10.2026 · 26 S 108/26y · Landesgericht Eisenstadt</summary>
   </entry>
   <entry>
-    <title>Creaclass GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555184-creaclass-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555184-creaclass-gmbh</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht Feldkirch"/>
-    <summary>Eröffnung: 22.10.2026 · 14 S 64/26p · Landesgericht Feldkirch</summary>
-  </entry>
-  <entry>
-    <title>Martin Johannes Vogl, Immobilienkaufmann</title>
-    <link href="https://www.akv.at/insolvenz/1555209-martin-johannes-vogl-immobilienkaufmann"/>
-    <id>https://www.akv.at/insolvenz/1555209-martin-johannes-vogl-immobilienkaufmann</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
-    <summary>Eröffnung: 22.10.2026 · 5 S 162/26x · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Alois Kreiler, Verlassenschaft nach dem am</title>
-    <link href="https://www.akv.at/insolvenz/1555176-alois-kreiler-verlassenschaft-nach-dem-am-16-09-2025-verstorbenen"/>
-    <id>https://www.akv.at/insolvenz/1555176-alois-kreiler-verlassenschaft-nach-dem-am-16-09-2025-verstorbenen</id>
-    <updated>2025-09-16T00:00:00Z</updated>
-    <category term="Landesgericht Eisenstadt"/>
-    <summary>Eröffnung: 16.09.2025 · 26 S 107/26a · Landesgericht Eisenstadt</summary>
-  </entry>
-  <entry>
-    <title>GuterWal GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555169-guterwal-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555169-guterwal-gmbh</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
-    <summary>Eröffnung: 22.10.2026 · 38 S 136/26s · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Othman Ben Abdallah</title>
-    <link href="https://www.akv.at/insolvenz/1555148-othman-ben-abdallah"/>
-    <id>https://www.akv.at/insolvenz/1555148-othman-ben-abdallah</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
-    <summary>Eröffnung: 22.10.2026 · 4 S 135/26v · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Vasile Risnoveanu, Hausbetreuung</title>
-    <link href="https://www.akv.at/insolvenz/1555153-vasile-risnoveanu-hausbetreuung"/>
-    <id>https://www.akv.at/insolvenz/1555153-vasile-risnoveanu-hausbetreuung</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
-    <summary>Eröffnung: 22.10.2026 · 5 S 161/26z · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Ing. Christian Franz Flegel, Inhaber der Firma ING. FLEGEL e.U., FN 251416f</title>
-    <link href="https://www.akv.at/insolvenz/1555119-ing-christian-franz-flegel-inhaber-der-firma-ing-flegel-e-u-fn-251416f"/>
-    <id>https://www.akv.at/insolvenz/1555119-ing-christian-franz-flegel-inhaber-der-firma-ing-flegel-e-u-fn-251416f</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht St. Pölten"/>
-    <summary>Eröffnung: 22.10.2026 · 14 S 139/26w · Landesgericht St. Pölten</summary>
-  </entry>
-  <entry>
-    <title>Tischlerei Grubner GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555189-tischlerei-grubner-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555189-tischlerei-grubner-gmbh</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht St. Pölten"/>
-    <summary>Eröffnung: 22.10.2026 · 14 S 140/26t · Landesgericht St. Pölten</summary>
-  </entry>
-  <entry>
-    <title>LATSCHEN REAL ESTATE GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555141-latschen-real-estate-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555141-latschen-real-estate-gmbh</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht Klagenfurt"/>
-    <summary>Eröffnung: 22.10.2026 · 40 S 83/26k · Landesgericht Klagenfurt</summary>
+    <title>TSD GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554545-tsd-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554545-tsd-gmbh</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 23.10.2026 · 4 S 136/26s · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>Sandro Markus Leopold Tiefenbacher</title>
     <link href="https://www.akv.at/insolvenz/1555257-sandro-markus-leopold-tiefenbacher"/>
     <id>https://www.akv.at/insolvenz/1555257-sandro-markus-leopold-tiefenbacher</id>
     <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht für ZRS Graz Abt. 25"/>
+    <category term="Steiermark"/>
     <summary>Eröffnung: 22.10.2026 · 25 S 211/26f · Landesgericht für ZRS Graz Abt. 25</summary>
   </entry>
   <entry>
-    <title>LA. Clip GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555214-la-clip-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555214-la-clip-gmbh</id>
+    <title>Bäckerei Masser KG</title>
+    <link href="https://www.akv.at/insolvenz/1555256-baeckerei-masser-kg"/>
+    <id>https://www.akv.at/insolvenz/1555256-baeckerei-masser-kg</id>
     <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht Wiener Neustadt"/>
-    <summary>Eröffnung: 22.10.2026 · 10 S 90/26b · Landesgericht Wiener Neustadt</summary>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 22.10.2026 · 25 S 210/26h · Landesgericht für ZRS Graz Abt. 25</summary>
   </entry>
   <entry>
     <title>David Diesel</title>
     <link href="https://www.akv.at/insolvenz/1555246-david-diesel"/>
     <id>https://www.akv.at/insolvenz/1555246-david-diesel</id>
     <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht für ZRS Graz Abt. 25"/>
+    <category term="Steiermark"/>
     <summary>Eröffnung: 22.10.2026 · 25 S 209/26m · Landesgericht für ZRS Graz Abt. 25</summary>
-  </entry>
-  <entry>
-    <title>Philipp Fessl</title>
-    <link href="https://www.akv.at/insolvenz/1555215-philipp-fessl"/>
-    <id>https://www.akv.at/insolvenz/1555215-philipp-fessl</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht Wiener Neustadt"/>
-    <summary>Eröffnung: 22.10.2026 · 10 S 92/26x · Landesgericht Wiener Neustadt</summary>
   </entry>
   <entry>
     <title>Hüseyin Kaya</title>
     <link href="https://www.akv.at/insolvenz/1555233-hueseyin-kaya"/>
     <id>https://www.akv.at/insolvenz/1555233-hueseyin-kaya</id>
     <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Landesgericht Wiener Neustadt"/>
+    <category term="Niederösterreich"/>
     <summary>Eröffnung: 22.10.2026 · 10 S 93/26v · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>Philipp Fessl</title>
+    <link href="https://www.akv.at/insolvenz/1555215-philipp-fessl"/>
+    <id>https://www.akv.at/insolvenz/1555215-philipp-fessl</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 22.10.2026 · 10 S 92/26x · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>LA. Clip GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555214-la-clip-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555214-la-clip-gmbh</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 22.10.2026 · 10 S 90/26b · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>Martin Johannes Vogl, Immobilienkaufmann</title>
+    <link href="https://www.akv.at/insolvenz/1555209-martin-johannes-vogl-immobilienkaufmann"/>
+    <id>https://www.akv.at/insolvenz/1555209-martin-johannes-vogl-immobilienkaufmann</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 22.10.2026 · 5 S 162/26x · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Tischlerei Grubner GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555189-tischlerei-grubner-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555189-tischlerei-grubner-gmbh</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 22.10.2026 · 14 S 140/26t · Landesgericht St. Pölten</summary>
+  </entry>
+  <entry>
+    <title>Creaclass GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555184-creaclass-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555184-creaclass-gmbh</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Vorarlberg"/>
+    <summary>Eröffnung: 22.10.2026 · 14 S 64/26p · Landesgericht Feldkirch</summary>
+  </entry>
+  <entry>
+    <title>GuterWal GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555169-guterwal-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555169-guterwal-gmbh</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 22.10.2026 · 38 S 136/26s · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Vasile Risnoveanu, Hausbetreuung</title>
+    <link href="https://www.akv.at/insolvenz/1555153-vasile-risnoveanu-hausbetreuung"/>
+    <id>https://www.akv.at/insolvenz/1555153-vasile-risnoveanu-hausbetreuung</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 22.10.2026 · 5 S 161/26z · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Othman Ben Abdallah</title>
+    <link href="https://www.akv.at/insolvenz/1555148-othman-ben-abdallah"/>
+    <id>https://www.akv.at/insolvenz/1555148-othman-ben-abdallah</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 22.10.2026 · 4 S 135/26v · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>LATSCHEN REAL ESTATE GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555141-latschen-real-estate-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555141-latschen-real-estate-gmbh</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Kärnten"/>
+    <summary>Eröffnung: 22.10.2026 · 40 S 83/26k · Landesgericht Klagenfurt</summary>
+  </entry>
+  <entry>
+    <title>Ing. Christian Franz Flegel, Inhaber der Firma ING. FLEGEL e.U., FN 251416f</title>
+    <link href="https://www.akv.at/insolvenz/1555119-ing-christian-franz-flegel-inhaber-der-firma-ing-flegel-e-u-fn-251416f"/>
+    <id>https://www.akv.at/insolvenz/1555119-ing-christian-franz-flegel-inhaber-der-firma-ing-flegel-e-u-fn-251416f</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 22.10.2026 · 14 S 139/26w · Landesgericht St. Pölten</summary>
   </entry>
   <entry>
     <title>Seestark GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555082-seestark-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555082-seestark-gmbh</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 21.10.2026 · 4 S 134/26x · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Mag. Nikolaus Georg Serrat, Verlassenschaft nach dem am</title>
-    <link href="https://www.akv.at/insolvenz/1555080-mag-nikolaus-georg-serrat-verlassenschaft-nach-dem-am-18-04-2023-br-verstorbenen"/>
-    <id>https://www.akv.at/insolvenz/1555080-mag-nikolaus-georg-serrat-verlassenschaft-nach-dem-am-18-04-2023-br-verstorbenen</id>
-    <updated>2023-04-18T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
-    <summary>Eröffnung: 18.04.2023 · 28 S 141/26b · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>AKIS Capital GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555079-akis-capital-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555079-akis-capital-gmbh</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 21.10.2026 · 4 S 133/26z · Handelsgericht Wien</summary>
   </entry>
   <entry>
@@ -267,7 +251,7 @@
     <link href="https://www.akv.at/insolvenz/1555062-andreas-mickl"/>
     <id>https://www.akv.at/insolvenz/1555062-andreas-mickl</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Landesgericht Klagenfurt"/>
+    <category term="Kärnten"/>
     <summary>Eröffnung: 21.10.2026 · 40 S 75/26h · Landesgericht Klagenfurt</summary>
   </entry>
   <entry>
@@ -275,7 +259,7 @@
     <link href="https://www.akv.at/insolvenz/1555059-christian-gaechter-consulting"/>
     <id>https://www.akv.at/insolvenz/1555059-christian-gaechter-consulting</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Landesgericht Feldkirch"/>
+    <category term="Vorarlberg"/>
     <summary>Eröffnung: 21.10.2026 · 14 S 63/26s · Landesgericht Feldkirch</summary>
   </entry>
   <entry>
@@ -283,55 +267,55 @@
     <link href="https://www.akv.at/insolvenz/1555049-kim-kaerntner-immobilienmanagement-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555049-kim-kaerntner-immobilienmanagement-gmbh</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Landesgericht Klagenfurt"/>
+    <category term="Kärnten"/>
     <summary>Eröffnung: 21.10.2026 · 40 S 76/26f · Landesgericht Klagenfurt</summary>
-  </entry>
-  <entry>
-    <title>SNOVA Projektentwicklung &amp; Handel KG</title>
-    <link href="https://www.akv.at/insolvenz/1555046-snova-projektentwicklung-und-handel-kg"/>
-    <id>https://www.akv.at/insolvenz/1555046-snova-projektentwicklung-und-handel-kg</id>
-    <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Landesgericht St. Pölten"/>
-    <summary>Eröffnung: 21.10.2026 · 14 S 138/26y · Landesgericht St. Pölten</summary>
   </entry>
   <entry>
     <title>ERYIL GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555047-eryil-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555047-eryil-gmbh</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 21.10.2026 · 28 S 140/26f · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>SNOVA Projektentwicklung &amp; Handel KG</title>
+    <link href="https://www.akv.at/insolvenz/1555046-snova-projektentwicklung-und-handel-kg"/>
+    <id>https://www.akv.at/insolvenz/1555046-snova-projektentwicklung-und-handel-kg</id>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 21.10.2026 · 14 S 138/26y · Landesgericht St. Pölten</summary>
   </entry>
   <entry>
     <title>WKI Hausverwaltung GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555041-wki-hausverwaltung-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555041-wki-hausverwaltung-gmbh</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Landesgericht Klagenfurt"/>
+    <category term="Kärnten"/>
     <summary>Eröffnung: 21.10.2026 · 41 S 97/26a · Landesgericht Klagenfurt</summary>
-  </entry>
-  <entry>
-    <title>EMGA Bau GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555030-emga-bau-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555030-emga-bau-gmbh</id>
-    <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
-    <summary>Eröffnung: 21.10.2026 · 6 S 142/26p · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>Resul Piken, Gastgewerbe</title>
     <link href="https://www.akv.at/insolvenz/1555040-resul-piken-gastgewerbe"/>
     <id>https://www.akv.at/insolvenz/1555040-resul-piken-gastgewerbe</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Landesgericht Feldkirch"/>
+    <category term="Vorarlberg"/>
     <summary>Eröffnung: 21.10.2026 · 14 S 62/26v · Landesgericht Feldkirch</summary>
+  </entry>
+  <entry>
+    <title>EMGA Bau GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555030-emga-bau-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555030-emga-bau-gmbh</id>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 21.10.2026 · 6 S 142/26p · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>EVION Holding GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555003-evion-holding-gmbh"/>
     <id>https://www.akv.at/insolvenz/1555003-evion-holding-gmbh</id>
     <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Landesgericht Innsbruck"/>
+    <category term="Tirol"/>
     <summary>Eröffnung: 21.10.2026 · 7 S 75/26b · Landesgericht Innsbruck</summary>
   </entry>
   <entry>
@@ -339,7 +323,7 @@
     <link href="https://www.akv.at/insolvenz/1554912-isuf-osmanaj-inh-der-mea-immobilien-e-u"/>
     <id>https://www.akv.at/insolvenz/1554912-isuf-osmanaj-inh-der-mea-immobilien-e-u</id>
     <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Landesgericht Wiener Neustadt"/>
+    <category term="Niederösterreich"/>
     <summary>Eröffnung: 20.10.2026 · 10 S 89/26f · Landesgericht Wiener Neustadt</summary>
   </entry>
   <entry>
@@ -347,7 +331,7 @@
     <link href="https://www.akv.at/insolvenz/1554910-markus-michael-holzner"/>
     <id>https://www.akv.at/insolvenz/1554910-markus-michael-holzner</id>
     <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Landesgericht Wiener Neustadt"/>
+    <category term="Niederösterreich"/>
     <summary>Eröffnung: 20.10.2026 · 10 S 88/26h · Landesgericht Wiener Neustadt</summary>
   </entry>
   <entry>
@@ -355,7 +339,7 @@
     <link href="https://www.akv.at/insolvenz/1554882-mesut-ceylan"/>
     <id>https://www.akv.at/insolvenz/1554882-mesut-ceylan</id>
     <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 20.10.2026 · 28 S 139/26h · Handelsgericht Wien</summary>
   </entry>
   <entry>
@@ -363,23 +347,31 @@
     <link href="https://www.akv.at/insolvenz/1554876-bashir-hussein-inhaber-der-firma-personalservice-b-h-e-u-fn512398b"/>
     <id>https://www.akv.at/insolvenz/1554876-bashir-hussein-inhaber-der-firma-personalservice-b-h-e-u-fn512398b</id>
     <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 20.10.2026 · 2 S 155/26w · Handelsgericht Wien</summary>
   </entry>
   <entry>
-    <title>Linda Polasova, Gasthaus "Zur Post"</title>
-    <link href="https://www.akv.at/insolvenz/1554799-linda-polasova-gasthaus-zur-post"/>
-    <id>https://www.akv.at/insolvenz/1554799-linda-polasova-gasthaus-zur-post</id>
+    <title>LKL - Martinhof Projekt GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554870-lkl-martinhof-projekt-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554870-lkl-martinhof-projekt-gmbh</id>
     <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Landesgericht für ZRS Graz Abt. 25"/>
-    <summary>Eröffnung: 20.10.2026 · 25 S 207/26t · Landesgericht für ZRS Graz Abt. 25</summary>
+    <category term="Wien"/>
+    <summary>Eröffnung: 20.10.2026 · 5 S 160/26b · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Haris Klokic</title>
+    <link href="https://www.akv.at/insolvenz/1554866-haris-klokic"/>
+    <id>https://www.akv.at/insolvenz/1554866-haris-klokic</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Kärnten"/>
+    <summary>Eröffnung: 20.10.2026 · 40 S 74/26m · Landesgericht Klagenfurt</summary>
   </entry>
   <entry>
     <title>LKLVS Immobilien GmbH</title>
     <link href="https://www.akv.at/insolvenz/1554865-lklvs-immobilien-gmbh"/>
     <id>https://www.akv.at/insolvenz/1554865-lklvs-immobilien-gmbh</id>
     <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 20.10.2026 · 9 S 135/26f · Handelsgericht Wien</summary>
   </entry>
   <entry>
@@ -387,23 +379,431 @@
     <link href="https://www.akv.at/insolvenz/1554861-gemo-np-bau-gmbh"/>
     <id>https://www.akv.at/insolvenz/1554861-gemo-np-bau-gmbh</id>
     <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
+    <category term="Wien"/>
     <summary>Eröffnung: 20.10.2026 · 2 S 154/26y · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>LKL - Martinhof Projekt GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1554870-lkl-martinhof-projekt-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1554870-lkl-martinhof-projekt-gmbh</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Handelsgericht Wien"/>
-    <summary>Eröffnung: 20.10.2026 · 5 S 160/26b · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>Björn Robert Groenewegen, Cafe Bittersüß</title>
     <link href="https://www.akv.at/insolvenz/1554859-bjoern-robert-groenewegen-cafe-bittersuess"/>
     <id>https://www.akv.at/insolvenz/1554859-bjoern-robert-groenewegen-cafe-bittersuess</id>
     <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Landesgericht Innsbruck"/>
+    <category term="Tirol"/>
     <summary>Eröffnung: 20.10.2026 · 7 S 74/26f · Landesgericht Innsbruck</summary>
+  </entry>
+  <entry>
+    <title>Herbert Baumgartner</title>
+    <link href="https://www.akv.at/insolvenz/1554848-herbert-baumgartner"/>
+    <id>https://www.akv.at/insolvenz/1554848-herbert-baumgartner</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 20.10.2026 · 18 S 61/26k · Landesgericht Leoben Abt. 18</summary>
+  </entry>
+  <entry>
+    <title>Markus Jauernig</title>
+    <link href="https://www.akv.at/insolvenz/1554844-markus-jauernig"/>
+    <id>https://www.akv.at/insolvenz/1554844-markus-jauernig</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 20.10.2026 · 18 S 63/26d · Landesgericht Leoben</summary>
+  </entry>
+  <entry>
+    <title>G&amp;A Event GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554830-gunda-event-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554830-gunda-event-gmbh</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 20.10.2026 · 14 S 136/26d · Landesgericht St. Pölten</summary>
+  </entry>
+  <entry>
+    <title>Mas &amp; Cul Consulting GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554812-mas-und-cul-consulting-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554812-mas-und-cul-consulting-gmbh</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 20.10.2026 · 5 S 144/26z · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Linda Polasova, Gasthaus "Zur Post"</title>
+    <link href="https://www.akv.at/insolvenz/1554799-linda-polasova-gasthaus-zur-post"/>
+    <id>https://www.akv.at/insolvenz/1554799-linda-polasova-gasthaus-zur-post</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 20.10.2026 · 25 S 207/26t · Landesgericht für ZRS Graz Abt. 25</summary>
+  </entry>
+  <entry>
+    <title>Stromgalerie Leuchten GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554795-stromgalerie-leuchten-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554795-stromgalerie-leuchten-gmbh</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Vorarlberg"/>
+    <summary>Eröffnung: 20.10.2026 · 13 S 74/26a · Landesgericht Feldkirch</summary>
+  </entry>
+  <entry>
+    <title>Autohaus Leibetseder GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554793-autohaus-leibetseder-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554793-autohaus-leibetseder-gmbh</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 20.10.2026 · 17 S 112/26h · Landesgericht Linz</summary>
+  </entry>
+  <entry>
+    <title>Sebastian Müller-Klasz, Inh. d. nasesiebzig e.U., FN458499p</title>
+    <link href="https://www.akv.at/insolvenz/1554790-sebastian-mueller-klasz-inh-d-nasesiebzig-e-u-fn458499p"/>
+    <id>https://www.akv.at/insolvenz/1554790-sebastian-mueller-klasz-inh-d-nasesiebzig-e-u-fn458499p</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 20.10.2026 · 9 S 134/26h · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Mega Gastro PRO Handels GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554735-mega-gastro-pro-handels-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554735-mega-gastro-pro-handels-gmbh</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 20.10.2026 · 2 S 153/26a · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>HW Weinagentur West GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554732-hw-weinagentur-west-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554732-hw-weinagentur-west-gmbh</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="Vorarlberg"/>
+    <summary>Eröffnung: 20.10.2026 · 13 S 72/26g · Landesgericht Feldkirch</summary>
+  </entry>
+  <entry>
+    <title>Bear Salimi</title>
+    <link href="https://www.akv.at/insolvenz/1554578-bear-salimi"/>
+    <id>https://www.akv.at/insolvenz/1554578-bear-salimi</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 38 S 137/26p · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Marina Milanovic , Inhaberin der INNA e.U., FN423437b</title>
+    <link href="https://www.akv.at/insolvenz/1554577-marina-milanovic-inhaberin-der-inna-e-u-fn423437b"/>
+    <id>https://www.akv.at/insolvenz/1554577-marina-milanovic-inhaberin-der-inna-e-u-fn423437b</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 38 S 138/26k · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Samer Hasrat</title>
+    <link href="https://www.akv.at/insolvenz/1554550-samer-hasrat"/>
+    <id>https://www.akv.at/insolvenz/1554550-samer-hasrat</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 2 S 152/26d · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Markus Seidl, Reinerhof</title>
+    <link href="https://www.akv.at/insolvenz/1554548-markus-seidl-reinerhof"/>
+    <id>https://www.akv.at/insolvenz/1554548-markus-seidl-reinerhof</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 19.10.2026 · 25 S 206/26w · Landesgericht für ZRS Graz Abt. 25</summary>
+  </entry>
+  <entry>
+    <title>Ercan Altun</title>
+    <link href="https://www.akv.at/insolvenz/1554544-ercan-altun"/>
+    <id>https://www.akv.at/insolvenz/1554544-ercan-altun</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 19.10.2026 · 27 S 199/26f · Landesgericht für ZRS Graz Abt. 27</summary>
+  </entry>
+  <entry>
+    <title>ALV-Automobile KG</title>
+    <link href="https://www.akv.at/insolvenz/1554543-alv-automobile-kg"/>
+    <id>https://www.akv.at/insolvenz/1554543-alv-automobile-kg</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 19.10.2026 · 49 S 30/26i · Landesgericht Wels</summary>
+  </entry>
+  <entry>
+    <title>EH Limousinenservice KG</title>
+    <link href="https://www.akv.at/insolvenz/1554542-eh-limousinenservice-kg"/>
+    <id>https://www.akv.at/insolvenz/1554542-eh-limousinenservice-kg</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 5 S 159/26f · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Alexander Pierre Meyerhiestand, Inh. d. Ing. Franz Reinprecht Praterbetriebe, FN9114d</title>
+    <link href="https://www.akv.at/insolvenz/1554540-alexander-pierre-meyerhiestand-inh-d-ing-franz-reinprecht-praterbetriebe-fn9114d"/>
+    <id>https://www.akv.at/insolvenz/1554540-alexander-pierre-meyerhiestand-inh-d-ing-franz-reinprecht-praterbetriebe-fn9114d</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 3 S 124/26v · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Yusuf Durmaz , Inh. d. KEBAP PALACE e.U., FN331261z</title>
+    <link href="https://www.akv.at/insolvenz/1554538-yusuf-durmaz-inh-d-kebap-palace-e-u-fn331261z"/>
+    <id>https://www.akv.at/insolvenz/1554538-yusuf-durmaz-inh-d-kebap-palace-e-u-fn331261z</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 9 S 133/26m · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Cafe Vogelweid 4 Betriebsgesellschaft m.b.H.</title>
+    <link href="https://www.akv.at/insolvenz/1554537-cafe-vogelweid-4-betriebsgesellschaft-m-b-h"/>
+    <id>https://www.akv.at/insolvenz/1554537-cafe-vogelweid-4-betriebsgesellschaft-m-b-h</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 3 S 123/26x · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Milija Cerovic</title>
+    <link href="https://www.akv.at/insolvenz/1554524-milija-cerovic"/>
+    <id>https://www.akv.at/insolvenz/1554524-milija-cerovic</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 3 S 122/26z · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Schwarzer Adler Jochberg GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554509-schwarzer-adler-jochberg-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554509-schwarzer-adler-jochberg-gmbh</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Tirol"/>
+    <summary>Eröffnung: 19.10.2026 · 7 S 73/26h · Landesgericht Innsbruck</summary>
+  </entry>
+  <entry>
+    <title>Adnan Aktas</title>
+    <link href="https://www.akv.at/insolvenz/1554502-adnan-aktas"/>
+    <id>https://www.akv.at/insolvenz/1554502-adnan-aktas</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 2 S 151/26g · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Nermina Prijic</title>
+    <link href="https://www.akv.at/insolvenz/1554500-nermina-prijic"/>
+    <id>https://www.akv.at/insolvenz/1554500-nermina-prijic</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 19.10.2026 · 49 S 29/26t · Landesgericht Wels</summary>
+  </entry>
+  <entry>
+    <title>Marcus Kabele, Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik</title>
+    <link href="https://www.akv.at/insolvenz/1554485-marcus-kabele-dienstleistungen-in-der-automatischen-datenverarbeitung-und-informationstechnik"/>
+    <id>https://www.akv.at/insolvenz/1554485-marcus-kabele-dienstleistungen-in-der-automatischen-datenverarbeitung-und-informationstechnik</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 5 S 157/26m · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Gebr. SÜZGEN Bau GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554484-gebr-suezgen-bau-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554484-gebr-suezgen-bau-gmbh</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 5 S 156/26i · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Lukas Herbert Schilcher</title>
+    <link href="https://www.akv.at/insolvenz/1554482-lukas-herbert-schilcher"/>
+    <id>https://www.akv.at/insolvenz/1554482-lukas-herbert-schilcher</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Kärnten"/>
+    <summary>Eröffnung: 19.10.2026 · 41 S 98/26y · Landesgericht Klagenfurt</summary>
+  </entry>
+  <entry>
+    <title>RIAD Khaldoon GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554453-riad-khaldoon-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554453-riad-khaldoon-gmbh</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 4 S 131/26f · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>NEA Handels GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554447-nea-handels-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554447-nea-handels-gmbh</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 9 S 132/26i · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>REDO Boutique GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554397-redo-boutique-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554397-redo-boutique-gmbh</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 6 S 140/26v · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Lapdesign GmbH in Liqu.</title>
+    <link href="https://www.akv.at/insolvenz/1553311-lapdesign-gmbh-in-liqu"/>
+    <id>https://www.akv.at/insolvenz/1553311-lapdesign-gmbh-in-liqu</id>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 19.10.2026 · 3 S 116/26t · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>REA Leitungstiefbau GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554394-rea-leitungstiefbau-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554394-rea-leitungstiefbau-gmbh</id>
+    <updated>2026-10-17T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 17.10.2026 · 18 S 62/26g · Landesgericht Leoben</summary>
+  </entry>
+  <entry>
+    <title>Mohammed Gharib</title>
+    <link href="https://www.akv.at/insolvenz/1554391-mohammed-gharib"/>
+    <id>https://www.akv.at/insolvenz/1554391-mohammed-gharib</id>
+    <updated>2026-10-17T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 17.10.2026 · 18 S 60/26p · Landesgericht Leoben Abt. 18</summary>
+  </entry>
+  <entry>
+    <title>CONAI Austria GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554347-conai-austria-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554347-conai-austria-gmbh</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 16.10.2026 · 11 S 116/26h · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>Salud GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554307-salud-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554307-salud-gmbh</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 16.10.2026 · 9 S 131/26t · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>I&amp;M Handels GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554299-iundm-handels-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554299-iundm-handels-gmbh</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 16.10.2026 · 25 S 205/26y · Landesgericht für ZRS Graz Abt. 25</summary>
+  </entry>
+  <entry>
+    <title>GB Transportgesellschaft m.b.H.</title>
+    <link href="https://www.akv.at/insolvenz/1554291-gb-transportgesellschaft-m-b-h"/>
+    <id>https://www.akv.at/insolvenz/1554291-gb-transportgesellschaft-m-b-h</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Salzburg"/>
+    <summary>Eröffnung: 16.10.2026 · 71 S 121/26f · Landesgericht Salzburg</summary>
+  </entry>
+  <entry>
+    <title>Regina Ramstorfer, Malerei und Anstreicherei</title>
+    <link href="https://www.akv.at/insolvenz/1554289-regina-ramstorfer-malerei-und-anstreicherei"/>
+    <id>https://www.akv.at/insolvenz/1554289-regina-ramstorfer-malerei-und-anstreicherei</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 16.10.2026 · 40 S 26/26h · Landesgericht Korneuburg</summary>
+  </entry>
+  <entry>
+    <title>Müller Wohnbau GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554287-mueller-wohnbau-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554287-mueller-wohnbau-gmbh</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Vorarlberg"/>
+    <summary>Eröffnung: 16.10.2026 · 14 S 61/26x · Landesgericht Feldkirch</summary>
+  </entry>
+  <entry>
+    <title>Nedzad Salkanovic, Geschäftsführer der Belmondo Gastwirtschafts GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554286-nedzad-salkanovic-geschaeftsfuehrer-der-belmondo-gastwirtschafts-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554286-nedzad-salkanovic-geschaeftsfuehrer-der-belmondo-gastwirtschafts-gmbh</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Vorarlberg"/>
+    <summary>Eröffnung: 16.10.2026 · 13 S 73/26d · Landesgericht Feldkirch</summary>
+  </entry>
+  <entry>
+    <title>Dipl.-Ing. (FH) Gerd Binder , Inh. d. Martial Arts &amp; Fitness Firm e.U.</title>
+    <link href="https://www.akv.at/insolvenz/1554282-dipl-ing-fh-gerd-binder-inh-d-martial-arts-und-fitness-firm-e-u"/>
+    <id>https://www.akv.at/insolvenz/1554282-dipl-ing-fh-gerd-binder-inh-d-martial-arts-und-fitness-firm-e-u</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 16.10.2026 · 17 S 111/26m · Landesgericht Linz</summary>
+  </entry>
+  <entry>
+    <title>Mata Saidubatalova</title>
+    <link href="https://www.akv.at/insolvenz/1554281-mata-saidubatalova"/>
+    <id>https://www.akv.at/insolvenz/1554281-mata-saidubatalova</id>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 16.10.2026 · 17 S 110/26i · Landesgericht Linz</summary>
+  </entry>
+  <entry>
+    <title>Robert Spies, Forstmulcher und Landschaftspfleger</title>
+    <link href="https://www.akv.at/insolvenz/1554244-robert-spies-forstmulcher-und-landschaftspfleger"/>
+    <id>https://www.akv.at/insolvenz/1554244-robert-spies-forstmulcher-und-landschaftspfleger</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 15.10.2026 · 11 S 115/26m · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>Bosko Spremo, Elektriker</title>
+    <link href="https://www.akv.at/insolvenz/1554242-bosko-spremo-elektriker"/>
+    <id>https://www.akv.at/insolvenz/1554242-bosko-spremo-elektriker</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 15.10.2026 · 11 S 113/26t · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>Moe's Trading GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554237-moe-s-trading-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554237-moe-s-trading-gmbh</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 15.10.2026 · 10 S 86/26i · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>GWHService GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554236-gwhservice-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554236-gwhservice-gmbh</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 15.10.2026 · 11 S 114/26i · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>Günther Gattinger , Inh. G-MENÜ</title>
+    <link href="https://www.akv.at/insolvenz/1554226-guenther-gattinger-inh-g-menue"/>
+    <id>https://www.akv.at/insolvenz/1554226-guenther-gattinger-inh-g-menue</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 15.10.2026 · 9 S 52/26h · Landesgericht Krems an der Donau</summary>
+  </entry>
+  <entry>
+    <title>Markus Gabriel</title>
+    <link href="https://www.akv.at/insolvenz/1554224-markus-gabriel"/>
+    <id>https://www.akv.at/insolvenz/1554224-markus-gabriel</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 15.10.2026 · 25 S 204/26a · Landesgericht für ZRS Graz Abt. 25</summary>
+  </entry>
+  <entry>
+    <title>AVORIS grey GmbH &amp; Co KG</title>
+    <link href="https://www.akv.at/insolvenz/1554223-avoris-grey-gmbh-und-co-kg"/>
+    <id>https://www.akv.at/insolvenz/1554223-avoris-grey-gmbh-und-co-kg</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 15.10.2026 · 9 S 121/26x · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Longstocking Productions GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554217-longstocking-productions-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554217-longstocking-productions-gmbh</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 15.10.2026 · 17 S 44/26s · Landesgericht Ried im Innkreis</summary>
+  </entry>
+  <entry>
+    <title>Haluk Genc, Gebäudereinigung</title>
+    <link href="https://www.akv.at/insolvenz/1554208-haluk-genc-gebaeudereinigung"/>
+    <id>https://www.akv.at/insolvenz/1554208-haluk-genc-gebaeudereinigung</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Tirol"/>
+    <summary>Eröffnung: 15.10.2026 · 7 S 69/26w · Landesgericht Innsbruck</summary>
+  </entry>
+  <entry>
+    <title>VK Consulting und Handels GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1554201-vk-consulting-und-handels-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1554201-vk-consulting-und-handels-gmbh</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 15.10.2026 · 4 S 129/26m · Handelsgericht Wien</summary>
   </entry>
 </feed>
