@@ -131,7 +131,7 @@ def collect() -> tuple[list[dict], date | None]:
                 raise
             print(f"WARN {url}: {exc}")
             continue
-        if entries:
+        if entries and i > 0:  # Hauptseite reicht nur ~3 Tage zurück, zählt nicht
             min_dates.append(min(e["date"] for e in entries))
         for e in entries:
             by_id.setdefault(e["id"], e)
