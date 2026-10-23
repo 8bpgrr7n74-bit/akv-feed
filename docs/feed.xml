@@ -5,7 +5,23 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-10-23T12:15:36Z</updated>
+  <updated>2026-10-23T17:14:07Z</updated>
+  <entry>
+    <title>3D Company GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555350-3d-company-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555350-3d-company-gmbh</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 23.10.2026 · 40 S 27/26f · Landesgericht Korneuburg</summary>
+  </entry>
+  <entry>
+    <title>Traivelling GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555349-traivelling-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555349-traivelling-gmbh</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 23.10.2026 · 2 S 157/26i · Handelsgericht Wien</summary>
+  </entry>
   <entry>
     <title>Hannes Schlögl, Verlassenschaft nach</title>
     <link href="https://www.akv.at/insolvenz/1555341-hannes-schloegl-verlassenschaft-nach"/>
@@ -789,21 +805,5 @@
     <updated>2026-10-15T00:00:00Z</updated>
     <category term="Niederösterreich"/>
     <summary>Eröffnung: 15.10.2026 · 9 S 52/26h · Landesgericht Krems an der Donau</summary>
-  </entry>
-  <entry>
-    <title>Markus Gabriel</title>
-    <link href="https://www.akv.at/insolvenz/1554224-markus-gabriel"/>
-    <id>https://www.akv.at/insolvenz/1554224-markus-gabriel</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="Steiermark"/>
-    <summary>Eröffnung: 15.10.2026 · 25 S 204/26a · Landesgericht für ZRS Graz Abt. 25</summary>
-  </entry>
-  <entry>
-    <title>AVORIS grey GmbH &amp; Co KG</title>
-    <link href="https://www.akv.at/insolvenz/1554223-avoris-grey-gmbh-und-co-kg"/>
-    <id>https://www.akv.at/insolvenz/1554223-avoris-grey-gmbh-und-co-kg</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 15.10.2026 · 9 S 121/26x · Handelsgericht Wien</summary>
   </entry>
 </feed>
