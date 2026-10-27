@@ -240,6 +240,8 @@ datum,bundesland,rechtsform,anzahl
 2026-10-22,Niederösterreich,Einzelperson,2
 2026-10-22,Niederösterreich,GmbH,2
 2026-10-22,Niederösterreich,e.U.,1
+2026-10-22,Oberösterreich,Einzelperson,1
+2026-10-22,Oberösterreich,GmbH,1
 2026-10-22,Steiermark,Einzelperson,2
 2026-10-22,Steiermark,KG,1
 2026-10-22,Vorarlberg,GmbH,1
@@ -252,7 +254,15 @@ datum,bundesland,rechtsform,anzahl
 2026-10-23,Oberösterreich,GmbH,1
 2026-10-23,Steiermark,Einzelperson,1
 2026-10-23,Vorarlberg,Einzelperson,1
-2026-10-23,Wien,Einzelperson,3
+2026-10-23,Wien,Einzelperson,4
 2026-10-23,Wien,GmbH,5
 2026-10-23,Wien,KG,1
 2026-10-23,Wien,e.U.,1
+2026-10-27,Niederösterreich,Einzelperson,1
+2026-10-27,Oberösterreich,GmbH,2
+2026-10-27,Salzburg,Einzelperson,1
+2026-10-27,Salzburg,e.U.,1
+2026-10-27,Tirol,GmbH,1
+2026-10-27,Wien,Einzelperson,1
+2026-10-27,Wien,GmbH,1
+2026-10-27,Wien,OG,1
