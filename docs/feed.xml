@@ -5,7 +5,15 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-10-27T00:31:18Z</updated>
+  <updated>2026-10-27T06:22:15Z</updated>
+  <entry>
+    <title>GLOBALİST GROUP MEDYA ENERJİ VE TİCARET ANONİM ŞİRKETİ</title>
+    <link href="https://www.akv.at/insolvenz/1555357-global-st-group-medya-enerj-ve-t-caret-anon-m-rket"/>
+    <id>https://www.akv.at/insolvenz/1555357-global-st-group-medya-enerj-ve-t-caret-anon-m-rket</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 23.10.2026 · 4 S 138/26k · Handelsgericht Wien</summary>
+  </entry>
   <entry>
     <title>3D Company GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555350-3d-company-gmbh"/>
@@ -797,13 +805,5 @@
     <updated>2026-10-15T00:00:00Z</updated>
     <category term="Niederösterreich"/>
     <summary>Eröffnung: 15.10.2026 · 11 S 114/26i · Landesgericht Wiener Neustadt</summary>
-  </entry>
-  <entry>
-    <title>Günther Gattinger , Inh. G-MENÜ</title>
-    <link href="https://www.akv.at/insolvenz/1554226-guenther-gattinger-inh-g-menue"/>
-    <id>https://www.akv.at/insolvenz/1554226-guenther-gattinger-inh-g-menue</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="Niederösterreich"/>
-    <summary>Eröffnung: 15.10.2026 · 9 S 52/26h · Landesgericht Krems an der Donau</summary>
   </entry>
 </feed>
