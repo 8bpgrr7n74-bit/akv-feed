@@ -141,6 +141,7 @@ datum,bundesland,rechtsform,anzahl
 2026-10-07,Salzburg,GmbH,2
 2026-10-07,Steiermark,Einzelperson,1
 2026-10-07,Steiermark,GmbH,2
+2026-10-07,Tirol,GmbH,1
 2026-10-07,Vorarlberg,Einzelperson,2
 2026-10-07,Vorarlberg,GmbH,1
 2026-10-08,Burgenland,GmbH & Co KG,1
@@ -220,6 +221,7 @@ datum,bundesland,rechtsform,anzahl
 2026-10-20,Niederösterreich,Einzelperson,1
 2026-10-20,Niederösterreich,GmbH,1
 2026-10-20,Niederösterreich,e.U.,1
+2026-10-20,Oberösterreich,Einzelperson,1
 2026-10-20,Oberösterreich,GmbH,1
 2026-10-20,Oberösterreich,Verlassenschaft,1
 2026-10-20,Steiermark,Einzelperson,3
@@ -230,7 +232,9 @@ datum,bundesland,rechtsform,anzahl
 2026-10-20,Wien,e.U.,2
 2026-10-21,Kärnten,Einzelperson,1
 2026-10-21,Kärnten,GmbH,2
+2026-10-21,Niederösterreich,GmbH,1
 2026-10-21,Niederösterreich,KG,1
+2026-10-21,Steiermark,GmbH,1
 2026-10-21,Tirol,GmbH,1
 2026-10-21,Vorarlberg,Einzelperson,2
 2026-10-21,Wien,GmbH,4
@@ -258,11 +262,19 @@ datum,bundesland,rechtsform,anzahl
 2026-10-23,Wien,GmbH,5
 2026-10-23,Wien,KG,1
 2026-10-23,Wien,e.U.,1
-2026-10-27,Niederösterreich,Einzelperson,1
-2026-10-27,Oberösterreich,GmbH,2
+2026-10-27,Niederösterreich,Einzelperson,2
+2026-10-27,Oberösterreich,GmbH,3
 2026-10-27,Salzburg,Einzelperson,1
 2026-10-27,Salzburg,e.U.,1
 2026-10-27,Tirol,GmbH,1
 2026-10-27,Wien,Einzelperson,1
 2026-10-27,Wien,GmbH,1
 2026-10-27,Wien,OG,1
+2026-10-28,Burgenland,Verlassenschaft,2
+2026-10-28,Oberösterreich,Einzelperson,1
+2026-10-28,Salzburg,GmbH,1
+2026-10-28,Steiermark,Einzelperson,2
+2026-10-28,Tirol,Einzelperson,4
+2026-10-28,Vorarlberg,GmbH,1
+2026-10-28,Vorarlberg,e.U.,1
+2026-10-28,Wien,Einzelperson,2
