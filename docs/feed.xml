@@ -5,7 +5,7 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-10-28T13:04:08Z</updated>
+  <updated>2026-10-28T18:54:37Z</updated>
   <entry>
     <title>GD-50 Bau GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555762-gd-50-bau-gmbh"/>
@@ -117,6 +117,14 @@
     <updated>2026-10-28T00:00:00Z</updated>
     <category term="Vorarlberg"/>
     <summary>Eröffnung: 28.10.2026 · 14 S 65/26k · Landesgericht Feldkirch</summary>
+  </entry>
+  <entry>
+    <title>ERsatzteil &amp; Oldtimer Handels GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555593-ersatzteil-und-oldtimer-handels-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555593-ersatzteil-und-oldtimer-handels-gmbh</id>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 28.10.2026 · 17 S 26/26f · Landesgericht Leoben Abt. 17</summary>
   </entry>
   <entry>
     <title>Arin Polatkan, Restaurants und Gaststätten</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-19T00:00:00Z</updated>
     <category term="Steiermark"/>
     <summary>Eröffnung: 19.10.2026 · 25 S 206/26w · Landesgericht für ZRS Graz Abt. 25</summary>
-  </entry>
-  <entry>
-    <title>Ercan Altun</title>
-    <link href="https://www.akv.at/insolvenz/1554544-ercan-altun"/>
-    <id>https://www.akv.at/insolvenz/1554544-ercan-altun</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="Steiermark"/>
-    <summary>Eröffnung: 19.10.2026 · 27 S 199/26f · Landesgericht für ZRS Graz Abt. 27</summary>
   </entry>
 </feed>
