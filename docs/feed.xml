@@ -5,7 +5,23 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-10-30T01:59:50Z</updated>
+  <updated>2026-10-30T08:44:03Z</updated>
+  <entry>
+    <title>Daniel Seltner, Bautischlerei</title>
+    <link href="https://www.akv.at/insolvenz/1555955-daniel-seltner-bautischlerei"/>
+    <id>https://www.akv.at/insolvenz/1555955-daniel-seltner-bautischlerei</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 30.10.2026 · 14 S 144/26f · Landesgericht St. Pölten</summary>
+  </entry>
+  <entry>
+    <title>MEGUS Immobilienprojekt GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1555948-megus-immobilienprojekt-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1555948-megus-immobilienprojekt-gmbh</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 29.10.2026 · 11 S 119/26z · Landesgericht Wiener Neustadt</summary>
+  </entry>
   <entry>
     <title>WOMA Immobilien Vertriebs GmbH , vorm. ÖKO-Wohnbau SAW GmbH</title>
     <link href="https://www.akv.at/insolvenz/1555931-woma-immobilien-vertriebs-gmbh-vorm-oeko-wohnbau-saw-gmbh"/>
@@ -789,21 +805,5 @@
     <updated>2026-10-20T00:00:00Z</updated>
     <category term="Wien"/>
     <summary>Eröffnung: 20.10.2026 · 28 S 139/26h · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Bashir Hussein , Inhaber der Firma Personalservice B.H e. U., FN512398b</title>
-    <link href="https://www.akv.at/insolvenz/1554876-bashir-hussein-inhaber-der-firma-personalservice-b-h-e-u-fn512398b"/>
-    <id>https://www.akv.at/insolvenz/1554876-bashir-hussein-inhaber-der-firma-personalservice-b-h-e-u-fn512398b</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 20.10.2026 · 2 S 155/26w · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>LKL - Martinhof Projekt GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1554870-lkl-martinhof-projekt-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1554870-lkl-martinhof-projekt-gmbh</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 20.10.2026 · 5 S 160/26b · Handelsgericht Wien</summary>
   </entry>
 </feed>
