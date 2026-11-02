@@ -5,7 +5,15 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-02T00:50:15Z</updated>
+  <updated>2026-11-02T07:43:49Z</updated>
+  <entry>
+    <title>Shala Isolierung und Abdichtungs GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1556102-shala-isolierung-und-abdichtungs-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1556102-shala-isolierung-und-abdichtungs-gmbh</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 30.10.2026 · 10 S 94/26s · Landesgericht Wiener Neustadt</summary>
+  </entry>
   <entry>
     <title>Khaled Ramdan Aljerf</title>
     <link href="https://www.akv.at/insolvenz/1556058-khaled-ramdan-aljerf"/>
@@ -797,13 +805,5 @@
     <updated>2026-10-21T00:00:00Z</updated>
     <category term="Kärnten"/>
     <summary>Eröffnung: 21.10.2026 · 40 S 75/26h · Landesgericht Klagenfurt</summary>
-  </entry>
-  <entry>
-    <title>Christian Gächter, Consulting</title>
-    <link href="https://www.akv.at/insolvenz/1555059-christian-gaechter-consulting"/>
-    <id>https://www.akv.at/insolvenz/1555059-christian-gaechter-consulting</id>
-    <updated>2026-10-21T00:00:00Z</updated>
-    <category term="Vorarlberg"/>
-    <summary>Eröffnung: 21.10.2026 · 14 S 63/26s · Landesgericht Feldkirch</summary>
   </entry>
 </feed>
