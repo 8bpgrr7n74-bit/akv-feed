@@ -5,7 +5,23 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-03T01:38:30Z</updated>
+  <updated>2026-11-03T09:39:09Z</updated>
+  <entry>
+    <title>Simon Engleder, Inh. der Bäckerei Engleder e.U.</title>
+    <link href="https://www.akv.at/insolvenz/1556349-simon-engleder-inh-der-baeckerei-engleder-e-u"/>
+    <id>https://www.akv.at/insolvenz/1556349-simon-engleder-inh-der-baeckerei-engleder-e-u</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 03.11.2026 · 13 S 59/26k · Landesgericht Linz</summary>
+  </entry>
+  <entry>
+    <title>Heinrich Penz, Handelsgewerbe</title>
+    <link href="https://www.akv.at/insolvenz/1556284-heinrich-penz-handelsgewerbe"/>
+    <id>https://www.akv.at/insolvenz/1556284-heinrich-penz-handelsgewerbe</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 03.11.2026 · 14 S 147/26x · Landesgericht St. Pölten</summary>
+  </entry>
   <entry>
     <title>BelEtage Cottage GmbH</title>
     <link href="https://www.akv.at/insolvenz/1556261-beletage-cottage-gmbh"/>
@@ -789,21 +805,5 @@
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="Niederösterreich"/>
     <summary>Eröffnung: 22.10.2026 · 10 S 92/26x · Landesgericht Wiener Neustadt</summary>
-  </entry>
-  <entry>
-    <title>LA. Clip GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555214-la-clip-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555214-la-clip-gmbh</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Niederösterreich"/>
-    <summary>Eröffnung: 22.10.2026 · 10 S 90/26b · Landesgericht Wiener Neustadt</summary>
-  </entry>
-  <entry>
-    <title>Martin Johannes Vogl, Immobilienkaufmann</title>
-    <link href="https://www.akv.at/insolvenz/1555209-martin-johannes-vogl-immobilienkaufmann"/>
-    <id>https://www.akv.at/insolvenz/1555209-martin-johannes-vogl-immobilienkaufmann</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 22.10.2026 · 5 S 162/26x · Handelsgericht Wien</summary>
   </entry>
 </feed>
