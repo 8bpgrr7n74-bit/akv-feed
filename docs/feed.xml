@@ -5,7 +5,23 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-03T23:28:13Z</updated>
+  <updated>2026-11-04T06:34:52Z</updated>
+  <entry>
+    <title>Doris Wagner</title>
+    <link href="https://www.akv.at/insolvenz/1556458-doris-wagner"/>
+    <id>https://www.akv.at/insolvenz/1556458-doris-wagner</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 03.11.2026 · 11 S 122/26s · Landesgericht Wiener Neustadt</summary>
+  </entry>
+  <entry>
+    <title>WIVO CNC Metalltechnik GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1556453-wivo-cnc-metalltechnik-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1556453-wivo-cnc-metalltechnik-gmbh</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 03.11.2026 · 11 S 121/26v · Landesgericht Wiener Neustadt</summary>
+  </entry>
   <entry>
     <title>Goldegg Verlag GmbH</title>
     <link href="https://www.akv.at/insolvenz/1556444-goldegg-verlag-gmbh"/>
@@ -789,21 +805,5 @@
     <updated>2026-10-23T00:00:00Z</updated>
     <category term="Niederösterreich"/>
     <summary>Eröffnung: 23.10.2026 · 40 S 27/26f · Landesgericht Korneuburg</summary>
-  </entry>
-  <entry>
-    <title>Traivelling GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555349-traivelling-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555349-traivelling-gmbh</id>
-    <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 23.10.2026 · 2 S 157/26i · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Hannes Schlögl, Verlassenschaft nach</title>
-    <link href="https://www.akv.at/insolvenz/1555341-hannes-schloegl-verlassenschaft-nach"/>
-    <id>https://www.akv.at/insolvenz/1555341-hannes-schloegl-verlassenschaft-nach</id>
-    <updated>2026-10-23T00:00:00Z</updated>
-    <category term="Burgenland"/>
-    <summary>Eröffnung: 23.10.2026 · 26 S 109/26w · Landesgericht Eisenstadt</summary>
   </entry>
 </feed>
