@@ -5,7 +5,15 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-06T00:22:07Z</updated>
+  <updated>2026-11-06T07:58:22Z</updated>
+  <entry>
+    <title>mysunlight Beteiligung GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1556891-mysunlight-beteiligung-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1556891-mysunlight-beteiligung-gmbh</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 06.11.2026 · 27 S 211/26w · Landesgericht für ZRS Graz Abt. 27</summary>
+  </entry>
   <entry>
     <title>1508 Vermietungs GmbH und Co KG</title>
     <link href="https://www.akv.at/insolvenz/1556860-1508-vermietungs-gmbh-und-co-kg"/>
@@ -797,13 +805,5 @@
     <updated>2026-10-28T00:00:00Z</updated>
     <category term="Salzburg"/>
     <summary>Eröffnung: 28.10.2026 · 71 S 124/26x · Landesgericht Salzburg</summary>
-  </entry>
-  <entry>
-    <title>Cinar Avdoyan</title>
-    <link href="https://www.akv.at/insolvenz/1555761-cinar-avdoyan"/>
-    <id>https://www.akv.at/insolvenz/1555761-cinar-avdoyan</id>
-    <updated>2026-10-28T00:00:00Z</updated>
-    <category term="Tirol"/>
-    <summary>Eröffnung: 28.10.2026 · 19 S 86/26h · Landesgericht Innsbruck</summary>
   </entry>
 </feed>
