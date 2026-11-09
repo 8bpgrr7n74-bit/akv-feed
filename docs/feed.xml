@@ -5,7 +5,23 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-09T02:43:27Z</updated>
+  <updated>2026-11-09T11:42:44Z</updated>
+  <entry>
+    <title>BETONTECHNIK TÜRKYILMAZ OG</title>
+    <link href="https://www.akv.at/insolvenz/1557077-betontechnik-tuerkyilmaz-og"/>
+    <id>https://www.akv.at/insolvenz/1557077-betontechnik-tuerkyilmaz-og</id>
+    <updated>2026-11-09T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 09.11.2026 · 38 S 147/26h · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Online Games Handels GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1557062-online-games-handels-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1557062-online-games-handels-gmbh</id>
+    <updated>2026-11-09T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 09.11.2026 · 27 S 212/26t · Landesgericht für ZRS Graz Abt. 27</summary>
+  </entry>
   <entry>
     <title>Bscheider KG</title>
     <link href="https://www.akv.at/insolvenz/1556976-bscheider-kg"/>
@@ -789,21 +805,5 @@
     <updated>2026-10-29T00:00:00Z</updated>
     <category term="Steiermark"/>
     <summary>Eröffnung: 29.10.2026 · 17 S 27/26b · Landesgericht Leoben Abt. 17</summary>
-  </entry>
-  <entry>
-    <title>Paul Köpf, Autoverglasung, Handelsgewerbe</title>
-    <link href="https://www.akv.at/insolvenz/1555856-paul-koepf-autoverglasung-handelsgewerbe"/>
-    <id>https://www.akv.at/insolvenz/1555856-paul-koepf-autoverglasung-handelsgewerbe</id>
-    <updated>2026-10-29T00:00:00Z</updated>
-    <category term="Niederösterreich"/>
-    <summary>Eröffnung: 29.10.2026 · 14 S 143/26h · Landesgericht St. Pölten</summary>
-  </entry>
-  <entry>
-    <title>GENC GASTRO GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1555853-genc-gastro-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1555853-genc-gastro-gmbh</id>
-    <updated>2026-10-29T00:00:00Z</updated>
-    <category term="Oberösterreich"/>
-    <summary>Eröffnung: 29.10.2026 · 49 S 31/26m · Landesgericht Wels</summary>
   </entry>
 </feed>
