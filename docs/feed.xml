@@ -5,7 +5,31 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-10T13:32:20Z</updated>
+  <updated>2026-11-10T20:52:17Z</updated>
+  <entry>
+    <title>Mirsad Veliu, Inhaber der MV Installationen e. U., FN576588z</title>
+    <link href="https://www.akv.at/insolvenz/1557387-mirsad-veliu-inhaber-der-mv-installationen-e-u-fn576588z"/>
+    <id>https://www.akv.at/insolvenz/1557387-mirsad-veliu-inhaber-der-mv-installationen-e-u-fn576588z</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 10.11.2026 · 36 S 161/26g · Landesgericht Korneuburg</summary>
+  </entry>
+  <entry>
+    <title>D-BauKonzept GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1557375-d-baukonzept-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1557375-d-baukonzept-gmbh</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="Oberösterreich"/>
+    <summary>Eröffnung: 10.11.2026 · 14 S 38/26z · Landesgericht Steyr</summary>
+  </entry>
+  <entry>
+    <title>Mirko Milosevic</title>
+    <link href="https://www.akv.at/insolvenz/1557372-mirko-milosevic"/>
+    <id>https://www.akv.at/insolvenz/1557372-mirko-milosevic</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 10.11.2026 · 38 S 149/26b · Handelsgericht Wien</summary>
+  </entry>
   <entry>
     <title>Hato Solutions Austria GmbH</title>
     <link href="https://www.akv.at/insolvenz/1557363-hato-solutions-austria-gmbh"/>
@@ -117,6 +141,14 @@
     <updated>2026-11-10T00:00:00Z</updated>
     <category term="Niederösterreich"/>
     <summary>Eröffnung: 10.11.2026 · 36 S 154/26b · Landesgericht Korneuburg</summary>
+  </entry>
+  <entry>
+    <title>Ivy&amp;Stella Vertriebs GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1557164-ivyundstella-vertriebs-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1557164-ivyundstella-vertriebs-gmbh</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 10.11.2026 · 3 S 132/26w · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>Anton Maurer</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-02T00:00:00Z</updated>
     <category term="Wien"/>
     <summary>Eröffnung: 02.11.2026 · 6 S 144/26g · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Rene Kurt Maritschnegg, Stuckateur und Trockenausbauer</title>
-    <link href="https://www.akv.at/insolvenz/1556168-rene-kurt-maritschnegg-stuckateur-und-trockenausbauer"/>
-    <id>https://www.akv.at/insolvenz/1556168-rene-kurt-maritschnegg-stuckateur-und-trockenausbauer</id>
-    <updated>2026-11-02T00:00:00Z</updated>
-    <category term="Steiermark"/>
-    <summary>Eröffnung: 02.11.2026 · 27 S 207/26g · Landesgericht für ZRS Graz Abt. 27</summary>
-  </entry>
-  <entry>
-    <title>Gecko Spa GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1556153-gecko-spa-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1556153-gecko-spa-gmbh</id>
-    <updated>2026-11-02T00:00:00Z</updated>
-    <category term="Oberösterreich"/>
-    <summary>Eröffnung: 02.11.2026 · 17 S 118/26s · Landesgericht Linz</summary>
-  </entry>
-  <entry>
-    <title>Shala Isolierung und Abdichtungs GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1556102-shala-isolierung-und-abdichtungs-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1556102-shala-isolierung-und-abdichtungs-gmbh</id>
-    <updated>2026-10-30T00:00:00Z</updated>
-    <category term="Niederösterreich"/>
-    <summary>Eröffnung: 30.10.2026 · 10 S 94/26s · Landesgericht Wiener Neustadt</summary>
-  </entry>
-  <entry>
-    <title>Greendrive Mobility GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1556101-greendrive-mobility-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1556101-greendrive-mobility-gmbh</id>
-    <updated>2026-10-30T00:00:00Z</updated>
-    <category term="Steiermark"/>
-    <summary>Eröffnung: 30.10.2026 · 27 S 205/26p · Landesgericht für ZRS Graz Abt. 27</summary>
   </entry>
 </feed>
