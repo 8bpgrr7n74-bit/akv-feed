@@ -5,7 +5,23 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-11T01:17:05Z</updated>
+  <updated>2026-11-11T07:50:36Z</updated>
+  <entry>
+    <title>EB GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1557419-eb-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1557419-eb-gmbh</id>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 11.11.2026 · 36 S 162/26d · Landesgericht Korneuburg</summary>
+  </entry>
+  <entry>
+    <title>RWR Wohnbau GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1557396-rwr-wohnbau-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1557396-rwr-wohnbau-gmbh</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 10.11.2026 · 11 S 126/26d · Landesgericht Wiener Neustadt</summary>
+  </entry>
   <entry>
     <title>Mirsad Veliu, Inhaber der MV Installationen e. U., FN576588z</title>
     <link href="https://www.akv.at/insolvenz/1557387-mirsad-veliu-inhaber-der-mv-installationen-e-u-fn576588z"/>
@@ -789,21 +805,5 @@
     <updated>2026-11-02T00:00:00Z</updated>
     <category term="Oberösterreich"/>
     <summary>Eröffnung: 02.11.2026 · 20 S 104/26h · Landesgericht Wels</summary>
-  </entry>
-  <entry>
-    <title>Gonsior Alexander, Inhaber der GECKO Tec e.U.</title>
-    <link href="https://www.akv.at/insolvenz/1556180-gonsior-alexander-inhaber-der-gecko-tec-e-u"/>
-    <id>https://www.akv.at/insolvenz/1556180-gonsior-alexander-inhaber-der-gecko-tec-e-u</id>
-    <updated>2026-11-02T00:00:00Z</updated>
-    <category term="Oberösterreich"/>
-    <summary>Eröffnung: 02.11.2026 · 17 S 119/26p · Landesgericht Linz</summary>
-  </entry>
-  <entry>
-    <title>Multi-I Austria GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1556179-multi-i-austria-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1556179-multi-i-austria-gmbh</id>
-    <updated>2026-11-02T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 02.11.2026 · 6 S 144/26g · Handelsgericht Wien</summary>
   </entry>
 </feed>
