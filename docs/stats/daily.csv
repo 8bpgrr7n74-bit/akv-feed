@@ -364,7 +364,8 @@ datum,bundesland,rechtsform,anzahl
 2026-11-11,Burgenland,Einzelperson,1
 2026-11-11,Burgenland,Verlassenschaft,1
 2026-11-11,Niederösterreich,Einzelperson,2
-2026-11-11,Niederösterreich,GmbH,2
+2026-11-11,Niederösterreich,GmbH,3
+2026-11-11,Niederösterreich,e.U.,1
 2026-11-11,Oberösterreich,Einzelperson,1
 2026-11-11,Oberösterreich,GmbH,2
 2026-11-11,Steiermark,Einzelperson,1
@@ -373,3 +374,6 @@ datum,bundesland,rechtsform,anzahl
 2026-11-11,Wien,Einzelperson,1
 2026-11-11,Wien,GmbH,1
 2026-11-11,Wien,e.U.,1
+2026-11-12,Tirol,GmbH,1
+2026-11-12,Wien,GmbH,1
+2026-11-12,Wien,e.U.,1
