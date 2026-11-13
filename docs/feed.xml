@@ -5,7 +5,23 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-13T01:53:16Z</updated>
+  <updated>2026-11-13T09:38:48Z</updated>
+  <entry>
+    <title>Martin Kruschitz , Inhaber d. Firma Martin Kruschitz e.U., FN5394h</title>
+    <link href="https://www.akv.at/insolvenz/1557761-martin-kruschitz-inhaber-d-firma-martin-kruschitz-e-u-fn5394h"/>
+    <id>https://www.akv.at/insolvenz/1557761-martin-kruschitz-inhaber-d-firma-martin-kruschitz-e-u-fn5394h</id>
+    <updated>2026-11-13T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 13.11.2026 · 28 S 145/26s · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>neopartement VIII Hungereckstraße 46-48 GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1557758-neopartement-viii-hungereckstrasse-46-48-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1557758-neopartement-viii-hungereckstrasse-46-48-gmbh</id>
+    <updated>2026-11-13T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 13.11.2026 · 28 S 154/26i · Handelsgericht Wien</summary>
+  </entry>
   <entry>
     <title>MY tour GmbH</title>
     <link href="https://www.akv.at/insolvenz/1557731-my-tour-gmbh"/>
@@ -789,21 +805,5 @@
     <updated>2026-11-03T00:00:00Z</updated>
     <category term="Wien"/>
     <summary>Eröffnung: 03.11.2026 · 2 S 156/26t · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Zineta Sijercic</title>
-    <link href="https://www.akv.at/insolvenz/1556437-zineta-sijercic"/>
-    <id>https://www.akv.at/insolvenz/1556437-zineta-sijercic</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <category term="Oberösterreich"/>
-    <summary>Eröffnung: 03.11.2026 · 17 S 117/26v · Landesgericht Linz</summary>
-  </entry>
-  <entry>
-    <title>Georgiana Laura Stefan</title>
-    <link href="https://www.akv.at/insolvenz/1556436-georgiana-laura-stefan"/>
-    <id>https://www.akv.at/insolvenz/1556436-georgiana-laura-stefan</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 03.11.2026 · 28 S 148/26g · Handelsgericht Wien</summary>
   </entry>
 </feed>
