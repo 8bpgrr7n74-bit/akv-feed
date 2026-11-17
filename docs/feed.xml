@@ -5,7 +5,15 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-17T14:32:39Z</updated>
+  <updated>2026-11-17T22:56:49Z</updated>
+  <entry>
+    <title>Hotel Nockalm GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1558243-hotel-nockalm-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1558243-hotel-nockalm-gmbh</id>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <category term="Kärnten"/>
+    <summary>Eröffnung: 17.11.2026 · 40 S 86/26a · Landesgericht Klagenfurt</summary>
+  </entry>
   <entry>
     <title>ST Alpenstein GmbH</title>
     <link href="https://www.akv.at/insolvenz/1558236-st-alpenstein-gmbh"/>
@@ -13,6 +21,14 @@
     <updated>2026-11-17T00:00:00Z</updated>
     <category term="Oberösterreich"/>
     <summary>Eröffnung: 17.11.2026 · 13 S 61/26d · Landesgericht Linz</summary>
+  </entry>
+  <entry>
+    <title>DDr. Gunther Karl Ernst Tischler, Facharzt für Kieferorthopädie</title>
+    <link href="https://www.akv.at/insolvenz/1558235-ddr-gunther-karl-ernst-tischler-facharzt-fuer-kieferorthopaedie"/>
+    <id>https://www.akv.at/insolvenz/1558235-ddr-gunther-karl-ernst-tischler-facharzt-fuer-kieferorthopaedie</id>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 17.11.2026 · 5 S 173/26i · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>Boté GmbH</title>
@@ -149,6 +165,14 @@
     <updated>2026-11-17T00:00:00Z</updated>
     <category term="Niederösterreich"/>
     <summary>Eröffnung: 17.11.2026 · 36 S 170/26f · Landesgericht Korneuburg</summary>
+  </entry>
+  <entry>
+    <title>WM Strom GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1558030-wm-strom-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1558030-wm-strom-gmbh</id>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <category term="Steiermark"/>
+    <summary>Eröffnung: 17.11.2026 · 27 S 219/26x · Landesgericht für ZRS Graz Abt. 27</summary>
   </entry>
   <entry>
     <title>Mario David Rosales Bados, Gastwirt</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-10T00:00:00Z</updated>
     <category term="Niederösterreich"/>
     <summary>Eröffnung: 10.11.2026 · 14  S 151/26k · Landesgericht St. Pölten</summary>
-  </entry>
-  <entry>
-    <title>David Radanovic, Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik</title>
-    <link href="https://www.akv.at/insolvenz/1557323-david-radanovic-dienstleistungen-in-der-automatischen-datenverarbeitung-und-informationstechnik"/>
-    <id>https://www.akv.at/insolvenz/1557323-david-radanovic-dienstleistungen-in-der-automatischen-datenverarbeitung-und-informationstechnik</id>
-    <updated>2026-11-10T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 10.11.2026 · 6 S 149/26t · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Gregor Herbert Sinnhuber</title>
-    <link href="https://www.akv.at/insolvenz/1557320-gregor-herbert-sinnhuber"/>
-    <id>https://www.akv.at/insolvenz/1557320-gregor-herbert-sinnhuber</id>
-    <updated>2026-11-10T00:00:00Z</updated>
-    <category term="Oberösterreich"/>
-    <summary>Eröffnung: 10.11.2026 · 14 S 39/26x · Landesgericht Steyr</summary>
-  </entry>
-  <entry>
-    <title>RP613 GmbH in Liquidation</title>
-    <link href="https://www.akv.at/insolvenz/1557319-rp613-gmbh-in-liquidation"/>
-    <id>https://www.akv.at/insolvenz/1557319-rp613-gmbh-in-liquidation</id>
-    <updated>2026-11-10T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 10.11.2026 · 2 S 163/26x · Handelsgericht Wien</summary>
   </entry>
 </feed>
