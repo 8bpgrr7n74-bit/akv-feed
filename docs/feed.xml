@@ -5,7 +5,7 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-18T14:08:21Z</updated>
+  <updated>2026-11-18T22:02:25Z</updated>
   <entry>
     <title>IVENTA International Management Consulting Ges.m.b.H.</title>
     <link href="https://www.akv.at/insolvenz/1558134-iventa-international-management-consulting-ges-m-b-h"/>
@@ -13,6 +13,14 @@
     <updated>2027-11-18T00:00:00Z</updated>
     <category term="Wien"/>
     <summary>Eröffnung: 18.11.2027 · 2 S 172/26w · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>NGB Immo GmbH &amp; Co KG</title>
+    <link href="https://www.akv.at/insolvenz/1558449-ngb-immo-gmbh-und-co-kg"/>
+    <id>https://www.akv.at/insolvenz/1558449-ngb-immo-gmbh-und-co-kg</id>
+    <updated>2026-11-18T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 18.11.2026 · 5 S 175/26h · Handelsgericht Wien</summary>
   </entry>
   <entry>
     <title>La Porkeria GmbH</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-11T00:00:00Z</updated>
     <category term="Steiermark"/>
     <summary>Eröffnung: 11.11.2026 · 18 S 64/26a · Landesgericht Leoben Abt. 18</summary>
-  </entry>
-  <entry>
-    <title>Leyla Walter-Krobath</title>
-    <link href="https://www.akv.at/insolvenz/1557599-leyla-walter-krobath"/>
-    <id>https://www.akv.at/insolvenz/1557599-leyla-walter-krobath</id>
-    <updated>2026-11-11T00:00:00Z</updated>
-    <category term="Steiermark"/>
-    <summary>Eröffnung: 11.11.2026 · 25 S 220/26d · Landesgericht für ZRS Graz Abt. 25</summary>
   </entry>
 </feed>
