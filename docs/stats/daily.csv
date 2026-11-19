@@ -413,6 +413,7 @@ datum,bundesland,rechtsform,anzahl
 2026-11-17,Wien,GmbH,5
 2026-11-18,Niederösterreich,Einzelperson,1
 2026-11-18,Niederösterreich,KG,1
+2026-11-18,Niederösterreich,e.U.,1
 2026-11-18,Oberösterreich,Einzelperson,2
 2026-11-18,Oberösterreich,GmbH,2
 2026-11-18,Salzburg,GmbH,1
@@ -422,4 +423,7 @@ datum,bundesland,rechtsform,anzahl
 2026-11-18,Wien,GmbH,5
 2026-11-18,Wien,GmbH & Co KG,1
 2026-11-18,Wien,OG,1
+2026-11-19,Niederösterreich,Einzelperson,2
+2026-11-19,Oberösterreich,GmbH,3
+2026-11-19,Wien,GmbH,4
 2027-11-18,Wien,GmbH,1
