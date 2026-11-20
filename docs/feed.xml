@@ -5,7 +5,7 @@
   <link rel="self" href="https://8bpgrr7n74-bit.github.io/akv-feed/feed.xml"/>
   <id>https://www.akv.at/insolvenzticker</id>
   <author><name>AKV EUROPA</name></author>
-  <updated>2026-11-20T13:01:32Z</updated>
+  <updated>2026-11-20T21:12:48Z</updated>
   <entry>
     <title>IVENTA International Management Consulting Ges.m.b.H.</title>
     <link href="https://www.akv.at/insolvenz/1558134-iventa-international-management-consulting-ges-m-b-h"/>
@@ -13,6 +13,30 @@
     <updated>2027-11-18T00:00:00Z</updated>
     <category term="Wien"/>
     <summary>Eröffnung: 18.11.2027 · 2 S 172/26w · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>Shopstory GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1558723-shopstory-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1558723-shopstory-gmbh</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <category term="Wien"/>
+    <summary>Eröffnung: 20.11.2026 · 5 S 177/26b · Handelsgericht Wien</summary>
+  </entry>
+  <entry>
+    <title>RUDAW GmbH</title>
+    <link href="https://www.akv.at/insolvenz/1558719-rudaw-gmbh"/>
+    <id>https://www.akv.at/insolvenz/1558719-rudaw-gmbh</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <category term="Niederösterreich"/>
+    <summary>Eröffnung: 20.11.2026 · 14 S 158/26i · Landesgericht St. Pölten</summary>
+  </entry>
+  <entry>
+    <title>Mustafa Göksu, Bodenleger</title>
+    <link href="https://www.akv.at/insolvenz/1558715-mustafa-goeksu-bodenleger"/>
+    <id>https://www.akv.at/insolvenz/1558715-mustafa-goeksu-bodenleger</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <category term="Vorarlberg"/>
+    <summary>Eröffnung: 20.11.2026 · 13 S 80/26h · Landesgericht Feldkirch</summary>
   </entry>
   <entry>
     <title>trivium Gmbh &amp; Co Ertragswerte 33 KG</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-13T00:00:00Z</updated>
     <category term="Wien"/>
     <summary>Eröffnung: 13.11.2026 · 38 S 150/26z · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Building-Day GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1557842-building-day-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1557842-building-day-gmbh</id>
-    <updated>2026-11-13T00:00:00Z</updated>
-    <category term="Wien"/>
-    <summary>Eröffnung: 13.11.2026 · 5 S 172/26t · Handelsgericht Wien</summary>
-  </entry>
-  <entry>
-    <title>Baumeister Lahofer GmbH</title>
-    <link href="https://www.akv.at/insolvenz/1557838-baumeister-lahofer-gmbh"/>
-    <id>https://www.akv.at/insolvenz/1557838-baumeister-lahofer-gmbh</id>
-    <updated>2026-11-13T00:00:00Z</updated>
-    <category term="Niederösterreich"/>
-    <summary>Eröffnung: 13.11.2026 · 36 S 165/26w · Landesgericht Korneuburg</summary>
-  </entry>
-  <entry>
-    <title>Elektro Kager GesmbH</title>
-    <link href="https://www.akv.at/insolvenz/1557811-elektro-kager-gesmbh"/>
-    <id>https://www.akv.at/insolvenz/1557811-elektro-kager-gesmbh</id>
-    <updated>2026-11-13T00:00:00Z</updated>
-    <category term="Burgenland"/>
-    <summary>Eröffnung: 13.11.2026 · 26 S 119/26s · Landesgericht Eisenstadt</summary>
   </entry>
 </feed>
